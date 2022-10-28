@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a772153a.css",
+    "main.js": "/static/js/main.5f8c5a26.js",
+    "static/js/787.5d55b354.chunk.js": "/static/js/787.5d55b354.chunk.js",
+    "static/media/logo-AS.png": "/static/media/logo-AS.7293606e7642e62212a9.png",
+    "static/media/estadio-1.png": "/static/media/estadio-1.07f622762197b7532a96.png",
+    "static/media/brasil-ico.svg": "/static/media/brasil-ico.5f44e616db7b71afbc26a4e4dcf3cd08.svg",
+    "index.html": "/index.html",
+    "main.a772153a.css.map": "/static/css/main.a772153a.css.map",
+    "main.5f8c5a26.js.map": "/static/js/main.5f8c5a26.js.map",
+    "787.5d55b354.chunk.js.map": "/static/js/787.5d55b354.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a772153a.css",
+    "static/js/main.5f8c5a26.js"
+  ]
+}
